@@ -1,0 +1,4 @@
+# environment variables not to be commited
+secrets.env  
+.env
+.vscode
